@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Week #7 Blog Post"
+date: 2019-10-18 12:00:00 -0800
+categories: Blog
+---
+
+My group and I finished up a project and presentation today for our AWS EC2 server. This includes setting up the Virtual Private Cloud and the EC2 Instance before I was able to complete my part by setting up the DNS configuration on Route 53. I copied the NS records to the domain and created all the necessary Records in the hosted zone. Lastly I used my teammates certificate information to fill out the CNAME Record as well. We are presenting on saturday!
